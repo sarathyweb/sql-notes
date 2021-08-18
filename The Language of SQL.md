@@ -11,5 +11,6 @@ There are three major components of SQL
 3. DCL
 - DCL stwnds for Data Control Language
 - It provides ACL for the database
+<br />
 
 - SQL is decorative language
