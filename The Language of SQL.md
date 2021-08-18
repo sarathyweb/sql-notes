@@ -26,4 +26,12 @@ There are three major components of SQL
 - Floats and decimals can have decimal precision
 - Floats stores only the approximate value while decimal stores the exact same value
 - Floats uses 32 bits while real uses 64 bits to represent a number
-- 
+- Character data should be surrounded by single quotes
+- char represents characters with fixed length while varchar represents variable length 
+- Data/time data types are used to represent date and time
+- date/time data should be surrounded by single quotes
+
+##NULL Values
+- A primary key cannot be null
+- When designing a database schema, we can set whether the column can have null values or not
+
