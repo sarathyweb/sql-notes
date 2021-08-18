@@ -14,3 +14,6 @@ There are three major components of SQL
 <br />
 
 - SQL is decorative language
+- Primary key is used to uniquely identify a row in a SQL table
+- Primary keys are usually sequentially generated using auto increment
+- Foreign keys are used to link two tables using a primary key of one of those tables
