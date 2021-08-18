@@ -31,7 +31,7 @@ There are three major components of SQL
 - Data/time data types are used to represent date and time
 - date/time data should be surrounded by single quotes
 
-##NULL Values
+## NULL Values
 - A primary key cannot be null
 - When designing a database schema, we can set whether the column can have null values or not
 
