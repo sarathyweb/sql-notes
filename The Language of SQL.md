@@ -19,6 +19,7 @@ There are three major components of SQL
 - Foreign keys are used to link two tables using a primary key of one of those tables
 <br />
 
+## SQL Data Types
 - Numeric data types include bits, integers, floats, decimals and real numbers
 - A Bit can be either 0 or 1
 - Bit data type is usually used to set an attribute either true (1) or false (0)
@@ -35,3 +36,4 @@ There are three major components of SQL
 - A primary key cannot be null
 - When designing a database schema, we can set whether the column can have null values or not
 
+# 2. Basic Data Retrieval
