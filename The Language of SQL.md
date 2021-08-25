@@ -58,4 +58,6 @@ ORDER BY condition
 - The columnlist can include functions
 - The FROM clause specifies the data source
 - The WHERE clause specifies logic
-
+- The GROUP BY clause is used to group the results
+- The HAVING clause is used to set selection logic for an entire group of data
+- The ORDER BY clause is used to sort the data within in ascending order or descending order
