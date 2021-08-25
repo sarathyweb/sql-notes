@@ -37,3 +37,25 @@ There are three major components of SQL
 - When designing a database schema, we can set whether the column can have null values or not
 
 # 2. Basic Data Retrieval
+- The SELECT statement is used to retrieve data from a database
+- "*" means all columns
+
+SELECT * FROM Customers -> display all columns from table customers
+
+SELECT FirstName FROM Customers -> display all data from the column FirstName
+
+- We can specify multiple column names in the SELECT statement
+- If we want to select more than one column from a table, the column names must be separated by commas
+- If the column name contains a space, surround the column name with square brackets for SQL server or ` characters for MySQL and double quotes for Oracle
+
+## Full syntax of SELECT statement
+SELECT columnlist 
+FROM tablename
+WHERE condition
+GROUP BY condition
+HAVING condition
+ORDER BY condition
+- The columnlist can include functions
+- The FROM clause specifies the data source
+- The WHERE clause specifies logic
+
