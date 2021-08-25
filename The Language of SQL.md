@@ -61,3 +61,5 @@ ORDER BY condition
 - The GROUP BY clause is used to group the results
 - The HAVING clause is used to set selection logic for an entire group of data
 - The ORDER BY clause is used to sort the data within in ascending order or descending order
+
+- Subquries are used to insert a whole SELECT statement within another SELECT statement
